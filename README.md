@@ -1,4 +1,4 @@
-# LIVERPOOL — PREMIER LEAGUE CHAMPIONS 2020
+# Liverpool — Premier League Champions 2020
 
 As a Liverpool fan and open-source enthusiast, I'm so happy to share with you some stuff I'm working for the 19th league title of Liverpool, just for fun. I hope you'll like them and share them with some other dudes 🏆
 
